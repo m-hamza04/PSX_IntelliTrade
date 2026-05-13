@@ -16,7 +16,6 @@ PSX IntelliTrade AI is a full-stack, database-driven trading analytics platform 
 
 **Project:** PSX IntelliTrade AI  
 **Tagline:** Intelligent Stock Portfolio & Market Analytics System for Pakistan Stock Exchange  
-**Repository:** https://github.com/Maaz-Ali0102/PSX-IntelliTrade-AI
 
 This repository demonstrates an enterprise-style architecture where business rules are enforced across backend services and Oracle database logic. The result is a practical portfolio management and market intelligence system with authentication, analytics, alerts, watchlists, indices, and admin operations.
 
